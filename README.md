@@ -9,10 +9,7 @@ O curso oferece uma jornada completa e didática para aprender Java e Programaç
 ### O que estou aprendendo
 
 - **Fundamentos Java:** Dominando conceitos básicos como estruturas de controle, arrays e listas.
-
-## Como Utilizar Este Repositório
-
-Cada pasta representa um projeto específico desenvolvido durante o curso. Aqui, armazeno o código-fonte, recursos e eventuais instruções específicas de cada projeto.
+- **POO** Utilizando a programação orienta a objetos para resolver problemas.
 
 ## Conclusão
 
