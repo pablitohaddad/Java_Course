@@ -18,7 +18,7 @@ public class Program {
 
         double valueToPay = CurrencyConverter.valueReais(dollarPrice, boughtDollar);
         System.out.printf("Amount to be paid in reais = %.2f", valueToPay);
-        
+
         sc.close();
 
     }
