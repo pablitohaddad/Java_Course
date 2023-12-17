@@ -1,8 +1,7 @@
 package application;
 
-import entities.Account;
+import entities.account;
 
-import javax.naming.InitialContext;
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -33,7 +32,7 @@ public class Program {
             System.out.println("Operation invalid");
         }
 
-        Account account = new Account(number, name, initialDeposit);
+        account account = new account(number, name, initialDeposit);
 
         System.out.println();
         System.out.println("Account data:");

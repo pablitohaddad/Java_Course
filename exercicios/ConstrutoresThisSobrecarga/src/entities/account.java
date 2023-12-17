@@ -1,13 +1,13 @@
 package entities;
 
-public class Account {
+public class account {
 
     public static final double TAX = 5.00;
     private final int number;
     private String name;
     private final double initialDeposit;
 
-    public Account(int number, String name, double initialDeposit) {
+    public account(int number, String name, double initialDeposit) {
         this.number = number;
         this.name = name;
     }
