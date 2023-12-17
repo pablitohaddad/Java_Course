@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BoxingWrapperClasses/BoxingWrapperClasses.iml" filepath="$PROJECT_DIR$/BoxingWrapperClasses/BoxingWrapperClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concatenacao/Concatenacao.iml" filepath="$PROJECT_DIR$/Concatenacao/Concatenacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condicional/Condicional.iml" filepath="$PROJECT_DIR$/Condicional/Condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstrutoresThisSobrecarga/ConstrutoresThisSobrecarga.iml" filepath="$PROJECT_DIR$/ConstrutoresThisSobrecarga/ConstrutoresThisSobrecarga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PorgramacaoOO4/PorgramacaoOO4.iml" filepath="$PROJECT_DIR$/PorgramacaoOO4/PorgramacaoOO4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaVetor/ProblemaVetor.iml" filepath="$PROJECT_DIR$/ProblemaVetor/ProblemaVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaVetor2/ProblemaVetor2.iml" filepath="$PROJECT_DIR$/ProblemaVetor2/ProblemaVetor2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramacaoOO/ProgramacaoOO.iml" filepath="$PROJECT_DIR$/ProgramacaoOO/ProgramacaoOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramacaoOO2/ProgramacaoOO2.iml" filepath="$PROJECT_DIR$/ProgramacaoOO2/ProgramacaoOO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramacaoOO3/ProgramacaoOO3.iml" filepath="$PROJECT_DIR$/ProgramacaoOO3/ProgramacaoOO3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sequenciais/Sequenciais.iml" filepath="$PROJECT_DIR$/Sequenciais/Sequenciais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vetores/Vetores.iml" filepath="$PROJECT_DIR$/Vetores/Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercicios.iml" filepath="$PROJECT_DIR$/.idea/exercicios.iml" />
+    </modules>
+  </component>
+</project>

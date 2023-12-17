@@ -1,63 +1,52 @@
 package application;
 
-import entities.Account;
-
-import javax.naming.InitialContext;
 import java.util.Locale;
 import java.util.Scanner;
 
+import entities.Account;
+
 public class Program {
+
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        Account account;
+
         System.out.print("Enter account number: ");
         int number = sc.nextInt();
-
         sc.nextLine();
-
         System.out.print("Enter account holder: ");
-        String name = sc.nextLine();
+        String holder = sc.nextLine();
 
-        System.out.print("Is there a initial deposit (y/n)? ");
-        String resp = sc.nextLine();
+        System.out.print("Is there na initial deposit (y/n)? ");
+        char response = sc.next().charAt(0);
 
-        double initialDeposit = 0.0;
-        if (resp.equals("y")){
-
+        if (response == 'y') {
             System.out.print("Enter initial deposit value: ");
-            initialDeposit = sc.nextDouble();
-
-        }else {
-            System.out.println("Operation invalid");
+            double initialDeposit = sc.nextDouble();
+            account = new Account(number, holder, initialDeposit);
+        }else{
+            account = new Account(number, holder);
         }
 
-        Account account = new Account(number, name, initialDeposit);
-
-        System.out.println();
         System.out.println("Account data:");
-        System.out.printf(account.toString());
-        System.out.println();
+        System.out.println(account);
 
         System.out.print("Enter a deposit value: ");
-        double putMoney = sc.nextDouble();
-        account.deposit(putMoney);
+        double depositValue = sc.nextDouble();
+        account.deposit(depositValue);
+        System.out.println("Update data:");
+        System.out.println(account);
 
-        sc.nextLine();
-
-        System.out.println("Updated account: ");
-        System.out.printf(account.toString());
-
-        System.out.println();
         System.out.print("Enter a withdraw value: ");
-        double takeMoney = sc.nextDouble();
-        account.withdraw(takeMoney);
-
-        System.out.println("Updated account: ");
-        System.out.printf(account.toString());
-
+        double withdrawValue = sc.nextDouble();
+        account.withdraw(withdrawValue);
+        System.out.println("Update data:");
+        System.out.println(account);
 
         sc.close();
     }
+
 }
