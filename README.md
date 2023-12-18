@@ -12,6 +12,9 @@ O curso oferece uma jornada completa e didática para aprender Java e Programaç
 - **POO** Utilizando a programação orienta a objetos para resolver problemas.
 - **Construtores, Getters e Setters** Para promover a segurança do meu código.
 
+### Aprendizados bônus:
+- **Git-Github** O melhor do versionamento de código.
+
 ## Conclusão
 
 Este repositório documenta minha jornada de aprendizado em Java. Se você está visualizando, saiba que este é um espaço pessoal de estudo. Espero que este repositório seja útil para acompanhar meu progresso e conhecimento em Java.
