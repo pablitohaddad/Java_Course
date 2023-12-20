@@ -10,6 +10,10 @@ O curso oferece uma jornada completa e didática para aprender Java e Programaç
 
 - **Fundamentos Java:** Dominando conceitos básicos como estruturas de controle, arrays e listas.
 - **POO** Utilizando a programação orienta a objetos para resolver problemas.
+- **Construtores, Getters e Setters** Para promover a segurança do meu código.
+
+### Aprendizados bônus:
+- **Git-Github** O melhor do versionamento de código.
 
 ## Conclusão
 
