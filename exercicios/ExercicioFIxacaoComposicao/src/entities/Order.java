@@ -17,9 +17,14 @@ public class Order {
 
     private List<OrderItem> items = new ArrayList<>();
 
-    public Order(LocalDateTime moment, OrderStatus status, Client client) {
+    public Order(){
+
+    }
+
+    public Order(Date moment, OrderStatus status, Client client) {
         this.status = status;
         this.client = client;
+        this.moment = moment;
     }
 
     public Date getMoment() {
@@ -49,11 +54,11 @@ public class Order {
     public List<OrderItem> getItems() {
         return items;
     }
-    public void addItem(OrderItem status){
-        items.add(status);
+    public void addItem(OrderItem item){
+        items.add(item);
     }
-    public void removeItem(OrderItem status){
-        items.remove(status);
+    public void removeItem(OrderItem item){
+        items.remove(item);
     }
     public double total(){
         double totalPrice = 0.0;
@@ -63,20 +68,21 @@ public class Order {
         return totalPrice;
 
     }
-    public String toString(){
-        System.out.println("ORDER SUMARY:");
+    @Override
+    public String toString() {
         StringBuilder sb = new StringBuilder();
-        sb.append("Order moment: " + sdf.format(moment) + "\n");
-        sb.append("Order status: " + getStatus() + "\n");
-        sb.append("Client: " + client.getName() + "(" + client.getBirthDate() + ") - " + client.getEmail());
-        System.out.println("Order items:");
-        for(OrderItem i: items){
-            sb.append(i.getProduct() + ", ");
-            sb.append(i.getPrice() + ", ");
-            sb.append("Quantity: "+ i.subTotal());
+        sb.append("Order moment: ");
+        sb.append(sdf.format(moment) + "\n");
+        sb.append("Order status: ");
+        sb.append(status + "\n");
+        sb.append("Client: ");
+        sb.append(client + "\n");
+        sb.append("Order items:\n");
+        for (OrderItem item : items) {
+            sb.append(item + "\n");
         }
-        sb.append(total());
+        sb.append("Total price: $");
+        sb.append(String.format("%.2f", total()));
         return sb.toString();
-
     }
 }
