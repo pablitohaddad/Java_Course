@@ -17,31 +17,25 @@ import java.time.format.DateTimeFormatter;
 public class Program {
     public static void main(String[] args) throws ParseException {
 
+        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-
-        LocalDateTime momentNow = LocalDateTime.now();
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
-        String momentoFormatado = momentNow.format(formatter);
-
-
-        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
         System.out.println("Enter client data:");
         System.out.print("Name: ");
         String nameClient = sc.nextLine();
         System.out.print("Email: ");
-        String emailClient = sc.nextLine();
+        String emailClient = sc.next();
         System.out.print("Birth date (DD/MM/YYYY): ");
         Date birthClient = sdf.parse(sc.next());
-        Client client = new Client(nameClient, String.format(emailClient), birthClient);
+        Client client = new Client(nameClient, emailClient, birthClient);
 
         System.out.println("Enter order data:");
         System.out.print("Status: ");
         OrderStatus status = OrderStatus.valueOf(sc.next());
         sc.nextLine();
 
-        Order order = new Order(momentNow, status, client);
+        Order order = new Order(new Date(), status, client); // new Date pois o pedido sera agora
 
 
         System.out.print("How many items to this order? ");
@@ -53,16 +47,15 @@ public class Program {
             System.out.print("Product name: ");
             String nameProduct = sc.nextLine();
             System.out.print("Product price: ");
-            Double priceProduct = sc.nextDouble();
+            double priceProduct = sc.nextDouble();
             System.out.print("Quantity: ");
             int quantityProduct = sc.nextInt();
-            sc.nextLine();
             OrderItem orderItem = new OrderItem(quantityProduct, priceProduct, new Product(nameProduct, priceProduct));
             order.addItem(orderItem);
         }
 
+        System.out.println();
         System.out.println(order);
-
 
         sc.close();
 
