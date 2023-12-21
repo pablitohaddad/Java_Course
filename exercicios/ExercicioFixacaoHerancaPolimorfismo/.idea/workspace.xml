@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d565ceba-2a63-4c13-a3b0-13f84dbf866b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BoxingWrapperClasses/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingWrapperClasses/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingWrapperClasses/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingWrapperClasses/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingWrapperClasses/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingWrapperClasses/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingWrapperClasses/BoxingWrapperClasses.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoxingWrapperClasses/src/Application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concatenacao/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concatenacao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concatenacao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concatenacao/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concatenacao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concatenacao/Concatenacao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concatenacao/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Condicional/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Condicional/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Condicional/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Condicional/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Condicional/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Condicional/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Condicional/Condicional.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Condicional/src/Atividade1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Condicional/src/Atividade2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Condicional/src/Atividade3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstrutoresThisSobrecarga/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstrutoresThisSobrecarga/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstrutoresThisSobrecarga/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstrutoresThisSobrecarga/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstrutoresThisSobrecarga/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstrutoresThisSobrecarga/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstrutoresThisSobrecarga/ConstrutoresThisSobrecarga.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstrutoresThisSobrecarga/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstrutoresThisSobrecarga/src/entities/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/ExercicioFIxacaoComposicao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/enums/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExercicioFixacaoHerancaPolimorfismo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/ImportedProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/UsedProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioListas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioListas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioListas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioListas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioListas/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioListas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioListas/ExercicioListas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioListas/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioListas/src/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoComposicao/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoComposicao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoComposicao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoComposicao/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoComposicao/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoComposicao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoComposicao/ExercicioResolvidoComposicao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoComposicao/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoComposicao/src/entities/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoComposicao/src/entities/HourContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoComposicao/src/entities/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoComposicao/src/entities/enums/WorkerLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoMembrosAbstratos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoMembrosAbstratos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoMembrosAbstratos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoMembrosAbstratos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoMembrosAbstratos/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoMembrosAbstratos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoMembrosAbstratos/ExercicioResolvidoMembrosAbstratos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoMembrosAbstratos/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoMembrosAbstratos/src/entities/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoMembrosAbstratos/src/entities/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoMembrosAbstratos/src/entities/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoMembrosAbstratos/src/entities/enums/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoPolimorfismo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoPolimorfismo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoPolimorfismo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoPolimorfismo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoPolimorfismo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoPolimorfismo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoPolimorfismo/ExercicioResolvidoPolimorfismo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoPolimorfismo/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoPolimorfismo/src/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoPolimorfismo/src/entities/OutsourcedEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciciosResolvidoComposicao2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciciosResolvidoComposicao2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciciosResolvidoComposicao2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciciosResolvidoComposicao2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciciosResolvidoComposicao2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciciosResolvidoComposicao2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciciosResolvidoComposicao2/ExerciciosResolvidoComposicao2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciciosResolvidoComposicao2/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciciosResolvidoComposicao2/src/entities/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciciosResolvidoComposicao2/src/entities/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PorgramacaoOO4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PorgramacaoOO4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PorgramacaoOO4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PorgramacaoOO4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PorgramacaoOO4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PorgramacaoOO4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PorgramacaoOO4/PorgramacaoOO4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PorgramacaoOO4/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PorgramacaoOO4/src/util/CurrencyConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaExemploExcecaoRuimBoa/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaExemploExcecaoRuimBoa/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaExemploExcecaoRuimBoa/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaExemploExcecaoRuimBoa/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaExemploExcecaoRuimBoa/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaExemploExcecaoRuimBoa/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaExemploExcecaoRuimBoa/ProblemaExemploExcecaoRuimBoa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaExemploExcecaoRuimBoa/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaExemploExcecaoRuimBoa/src/model/entities/Reservation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaExemploExcecaoRuimBoa/src/model/exceptions/DomainException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor/ProblemaVetor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor/ProblemaVetor1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor/src/Application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor2/ProblemaVetor2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor2/src/Application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemaVetor2/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO/ProgramacaoOO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO/src/aplication/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO/src/entities/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO2/ProgramacaoOO2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO2/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO2/src/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO3/ProgramacaoOO3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO3/src/Application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgramacaoOO3/src/entities/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequenciais/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequenciais/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequenciais/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequenciais/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequenciais/Sequenciais.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequenciais/src/Atividade1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequenciais/src/Atividade2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequenciais/src/Atividade3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sequenciais/src/Atividade4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/src/ProblemaNegativos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/src/ProblemaSomaAlturas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/src/ProblemaSomaVetor.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2Zr2qNLmzd7exQhWROxWo4UCwE7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Program.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Pablito/reps/IdeaProjects/exercicios/semana3/ExercicioResolvidoPolimorfismo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-azul-21.0.1-3183f394aec4-7aa6f726" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-7d648f2c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d565ceba-2a63-4c13-a3b0-13f84dbf866b" name="Changes" comment="" />
+      <created>1703166070529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703166070529</updated>
+      <workItem from="1703166071658" duration="4052000" />
+      <workItem from="1703179769084" duration="633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
