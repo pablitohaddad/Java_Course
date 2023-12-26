@@ -2,8 +2,196 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="491c44f5-2f76-4228-a92f-a70cb233229d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/exercicios/ExercicioFIxacaoComposicao/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ExercicioFIxacaoComposicao/src/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ExercicioFIxacaoComposicao/src/entities/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ExercicioFIxacaoComposicao/src/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/ExercicioFIxacaoComposicao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoExcecao/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoExcecao/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoExcecao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoExcecao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoExcecao/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoExcecao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoExcecao/ExercicioFixacaoExcecao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoExcecao/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoExcecao/src/module/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoExcecao/src/module/exceptions/DomainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo2/ExercicioFixacaoHerancaPolimorfismo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo2/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo2/src/module/entities/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo2/src/module/entities/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo2/src/module/entities/TaxPayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/ExercicioFixacaoInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/src/module/entities/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/src/module/entities/Installment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/src/module/service/ContractService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/src/module/service/OnlinePaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoInterface/src/module/service/PaypalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoMap/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoMap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoMap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoMap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoMap/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoMap/ExercicioFixacaoMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoMap/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoMap/src/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoSet/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoSet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoSet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoSet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoSet/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoSet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoSet/ExercicioFixacaoSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoSet/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoSet/src/entities/Alunos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoArquivos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoArquivos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoArquivos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoArquivos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoArquivos/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoArquivos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoArquivos/ExercicioResolvidoArquivos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoArquivos/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoArquivos/src/module/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoCoringa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoCoringa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoCoringa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoCoringa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoCoringa/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoCoringa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoCoringa/ExercicioResolvidoCoringa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoCoringa/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoCoringa/src/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoCoringa/src/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoCoringa/src/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoDefaultMethods/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoDefaultMethods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoDefaultMethods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoDefaultMethods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoDefaultMethods/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoDefaultMethods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoDefaultMethods/ExercicioResolvidoDefaultMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoDefaultMethods/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoDefaultMethods/src/services/BrazilInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoDefaultMethods/src/services/InterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoDefaultMethods/src/services/UsaInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoInterfaceComparable/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoInterfaceComparable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoInterfaceComparable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoInterfaceComparable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoInterfaceComparable/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoInterfaceComparable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoInterfaceComparable/ExercicioResolvidoInterfaceComparable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoInterfaceComparable/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoInterfaceComparable/src/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoSet/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoSet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoSet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoSet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoSet/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoSet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoSet/ExercicioResolvidoSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoSet/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoSet/src/entities/LogEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoSet/src/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/ExerciciosResolvidoInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/src/model/entities/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/src/model/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/src/model/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/src/model/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ExerciciosResolvidoInterface/src/model/enums/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/ProblemaDoDiamanteHerancasMultiplas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/src/devices/ComboDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/src/devices/ConcretePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/src/devices/ConcreteScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/src/devices/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/src/devices/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaDoDiamanteHerancasMultiplas/src/devices/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/ProblemaExemploInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/src/model/entities/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/src/model/entities/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/src/model/entities/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/src/model/services/BrazilTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/src/model/services/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface/src/model/services/TaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/ProblemaExemploInterface2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/src/model/entities/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/src/model/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/src/model/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/src/model/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterface2/src/model/entities/enums/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterfaceFuncional/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterfaceFuncional/out/production/ProblemaExemploInterfaceFuncional/application/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterfaceFuncional/out/production/ProblemaExemploInterfaceFuncional/entities/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/ProblemaExemploInterfaceFuncional/out/production/ProblemaExemploInterfaceFuncional/model/services/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/TiposCoringa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/TiposCoringa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/TiposCoringa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/TiposCoringa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/TiposCoringa/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/TiposCoringa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/TiposCoringa/TiposCoringa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/semana3/TiposCoringa/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/src/entities/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/src/entities/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/src/entities/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/src/entities/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/src/entities/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/src/entities/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/src/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/src/entities/enums/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFIxacaoComposicao/src/entities/enums/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioFixacaoHerancaPolimorfismo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoPolimorfismo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/semana3/ExercicioResolvidoPolimorfismo/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +216,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "Merging master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Pablito/reps/IdeaProjects",
+    "last_opened_file_path": "C:/Users/Pablito/reps/IdeaProjects/exercicios",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -59,6 +247,7 @@
       <workItem from="1702848812815" duration="20000" />
       <workItem from="1702905114263" duration="11000" />
       <workItem from="1703076250079" duration="59000" />
+      <workItem from="1703608623737" duration="13000" />
     </task>
     <servers />
   </component>

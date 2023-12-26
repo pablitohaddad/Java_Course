@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba6da8d6-556b-42b2-b81d-6a45699ef7e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/ExercicioFIxacaoComposicao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoExcecao/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoExcecao/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoExcecao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoExcecao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoExcecao/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoExcecao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoExcecao/ExercicioFixacaoExcecao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoExcecao/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoExcecao/src/module/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoExcecao/src/module/exceptions/DomainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo2/ExercicioFixacaoHerancaPolimorfismo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo2/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo2/src/module/entities/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo2/src/module/entities/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo2/src/module/entities/TaxPayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/ExercicioFixacaoInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/src/module/entities/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/src/module/entities/Installment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/src/module/service/ContractService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/src/module/service/OnlinePaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoInterface/src/module/service/PaypalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoMap/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoMap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoMap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoMap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoMap/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoMap/ExercicioFixacaoMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoMap/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoMap/src/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoSet/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoSet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoSet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoSet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoSet/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoSet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoSet/ExercicioFixacaoSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoSet/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioFixacaoSet/src/entities/Alunos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoArquivos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoArquivos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoArquivos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoArquivos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoArquivos/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoArquivos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoArquivos/ExercicioResolvidoArquivos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoArquivos/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoArquivos/src/module/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoCoringa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoCoringa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoCoringa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoCoringa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoCoringa/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoCoringa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoCoringa/ExercicioResolvidoCoringa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoCoringa/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoCoringa/src/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoCoringa/src/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoCoringa/src/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoDefaultMethods/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoDefaultMethods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoDefaultMethods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoDefaultMethods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoDefaultMethods/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoDefaultMethods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoDefaultMethods/ExercicioResolvidoDefaultMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoDefaultMethods/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoDefaultMethods/src/services/BrazilInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoDefaultMethods/src/services/InterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoDefaultMethods/src/services/UsaInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoInterfaceComparable/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoInterfaceComparable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoInterfaceComparable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoInterfaceComparable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoInterfaceComparable/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoInterfaceComparable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoInterfaceComparable/ExercicioResolvidoInterfaceComparable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoInterfaceComparable/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoInterfaceComparable/src/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoSet/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoSet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoSet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoSet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoSet/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoSet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoSet/ExercicioResolvidoSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoSet/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoSet/src/entities/LogEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioResolvidoSet/src/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/ExerciciosResolvidoInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/src/model/entities/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/src/model/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/src/model/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/src/model/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciciosResolvidoInterface/src/model/enums/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/ProblemaDoDiamanteHerancasMultiplas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/src/devices/ComboDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/src/devices/ConcretePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/src/devices/ConcreteScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/src/devices/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/src/devices/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaDoDiamanteHerancasMultiplas/src/devices/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/ProblemaExemploInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/src/model/entities/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/src/model/entities/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/src/model/entities/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/src/model/services/BrazilTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/src/model/services/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface/src/model/services/TaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/ProblemaExemploInterface2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/src/model/entities/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/src/model/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/src/model/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/src/model/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemaExemploInterface2/src/model/entities/enums/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposCoringa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposCoringa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposCoringa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposCoringa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposCoringa/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposCoringa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposCoringa/TiposCoringa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiposCoringa/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/enums/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercicioFIxacaoComposicao/src/entities/enums/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercicioFixacaoHerancaPolimorfismo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioResolvidoPolimorfismo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercicioResolvidoPolimorfismo/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2a5IBs6W2x83sFzT7RuOxdmjV4B" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-7d648f2c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba6da8d6-556b-42b2-b81d-6a45699ef7e5" name="Changes" comment="" />
+      <created>1703601883552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703601883552</updated>
+      <workItem from="1703601884593" duration="1312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
